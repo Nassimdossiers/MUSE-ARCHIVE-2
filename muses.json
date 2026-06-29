@@ -210,6 +210,61 @@
         "type": "Friend"
       }
     ]
+  },
+
+  {
+    "id": "varko",
+
+    "name": "VARKO",
+
+    "nickname": "Your Gym bro",
+
+    "species": "Wolf/Husky Hybrid",
+
+    "age": 26,
+
+    "height": "6'3\"",
+
+    "occupation": "College Student",
+
+    "status": "Alive",
+
+    "pronouns": "He / Him",
+
+    "tags": [
+      "furry",
+      "original"
+    ],
+
+    "quote": "Wooah, that's so fuckin' gay, bro.",
+
+    "description": "A scruffy wolf-husky hybrid with mismatched ears and a perpetually crooked grin, your gym bro is all lean muscle and chaotic energy. He smells like protein powder and cheap cologne, and he'll spot your bench press whether you asked or not.",
+
+    "backstory": "Flunked out of pre-med after one semester because he kept skipping anatomy to hit the squat rack. Now he's coasting through a kinesiology degree, tutoring jocks and failing calc, but secretly the most loyal friend you'll ever have. His pack is his gym crew, and he'd spot you through anything—literally or emotionally, though he'll never admit the second part.",
+
+    "trivia": [
+      "Addicted to flexing in the mirror",
+      "Eats the same meal every single day",
+      "Calls everyone a 'bro' regardless of age, gender or species"
+    ],
+
+    "gallery": [
+      "Varko1.png",
+      "Varko2.png",
+      "Varko3.png"
+    ],
+
+    "relationships": [
+      {
+        "id": "steel",
+        "type": "Idol"
+      },
+    
+      {
+        "id": "alfie",
+        "type": "Collector"
+      }
+    ]
   }
 
 ]
