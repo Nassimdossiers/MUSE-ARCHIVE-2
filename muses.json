@@ -160,6 +160,57 @@
         "type": "Enemy"
       }
     ]
-  }
+  },
 
+  {
+    "id": "deaaron",
+
+    "name": "DE'AARON",
+
+    "nickname": "The Bartender",
+
+    "species": "Tideborn Dragon",
+
+    "age": 28,
+
+    "height": "6'5\"",
+
+    "occupation": "Bartender",
+
+    "status": "Alive",
+
+    "pronouns": "He / Him",
+
+    "tags": [
+      "furry",
+      "original"
+    ],
+
+    "quote": "Just don't overdose it. Alright?",
+
+    "description": "A gentle giant of turquoise scales and warm aqua eyes, De'Aaron's massive frame belies his soft-spoken nature. He spends his days saving lives from the sea and his nights mixing drinks that mend them.",
+
+    "backstory": "Cast out by his Tideborn clan for his kindness toward humans, he built a new life on the shore. Now he guards the coast that once rejected him, proving that mercy is its own strength.",
+
+    "trivia": [
+      "Has a mortal fearof jellyfish",
+      "Nothing off thr rack fits his frame",
+      "Can hold his breath for 47 minutes"
+    ],
+
+    "gallery": [
+      "Untitled276_20260629175404.png",
+      "Untitled276_20260629181038.png",
+      "Untitled276_20260629181058.png"
+    ],
+
+    "relationships": [
+      {
+        "id": "alfie",
+        "type": "Friend"
+      },
+    
+    ]
+  
+  
 ]
