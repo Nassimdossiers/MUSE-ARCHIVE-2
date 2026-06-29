@@ -36,9 +36,9 @@
     ],
 
     "gallery": [
-      "images/Steel1.png",
-      "images/Steel2.png",
-      "Images/Steel3.png"
+      "Untitled276_20260629141347.png",
+      "Untitled276_20260629141420.png",
+      "Untitled276_20260629140928.png"
     ],
 
     "relationships": [
@@ -91,9 +91,9 @@
     ],
 
     "gallery": [
-      "Images/Alfie1.png",
-      "Images/Alfie2.png",
-      "Images/Alfie3.png"
+      "Untitled276_20260629175404.png",
+      "Untitled276_20260629181038.png",
+      "Untitled276_20260629181058.png"
     ],
 
     "relationships": [
@@ -145,9 +145,9 @@
     ],
 
     "gallery": [
-      "images/Nurko1.png",
-      "images/Nurko2.png",
-      "Images/Nurko3.png"
+      "Untitled276_20260629183332.png",
+      "Untitled276_20260629183354.png",
+      "Untitled276_20260629183406.png"
     ],
 
     "relationships": [
