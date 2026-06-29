@@ -104,10 +104,10 @@ LOAD DATABASE
 
 async function loadDatabase(){
 
-const museData=await fetch("data/muses.json");
+const museData=await fetch("muses.json");
 muses=await museData.json();
 
-const quoteData=await fetch("data/quotes.json");
+const quoteData=await fetch("quotes.json");
 quotes=await quoteData.json();
 
 renderGallery();
