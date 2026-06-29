@@ -242,36 +242,34 @@
       "Alistair3.png"
     ],
     "relationships": []
+  },
+  {
+    "id": "kaiden",
+    "name": "WAYFARER",
+    "nickname": "The Chrononaut",
+    "species": "Gifted Human",
+    "age": 23,
+    "height": "5'9\"",
+    "occupation": "Knight-errant",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "human",
+      "original"
+    ],
+    "quote": "It's not how much time you have, it's how you use it.",
+    "description": "A lone traveler with tired eyes and a watch that ticks backward, Kaiden carries the weight of centuries on his scarred shoulders. His movements are fluid, honed across a hundred[...]",
+    "backstory": "A scholar's son from Veridia, Kaiden was blessed—or cursed—by a lightning strike that tore him from his timeline and gave him the power to walk through ages. His first lesson [...]",
+    "trivia": [
+      "Refuses to step foot on 1347 Europe",
+      "Owns a surprisingly good singing voice",
+      "Gets hopelessly lost in cities he's visited a dozen times because 'the layout changes, okay?'"
+    ],
+    "gallery": [
+      "Kai1.png",
+      "Kai2.png",
+      "Kai3.png"
+    ],
+    "relationships": []
   }
 ]
-{
-  "id": "kaiden",
-  "name": "WAYFARER",
-  "nickname": "The Chrononaut",
-  "species": "Gifted Human",
-  "age": 23,
-  "height": "5'9\"",
-  "occupation": "Knight-errant",
-  "status": "Alive",
-  "pronouns": "He / Him",
-  "tags": [
-    "human",
-    "original"
-  ],
-  "quote": "It's not how much time you have, it's how you use it.",
-  "description": "A lone traveler with tired eyes and a watch that ticks backward, Kaiden carries the weight of centuries on his scarred shoulders. His movements are fluid, honed across a hundred battlefields from forgotten pasts to dystopian futures, and his gaze holds the quiet grief of someone who has seen too much and changed too little. He appears like a ghost in the wrong era, a sudden shield against violence, then vanishes before anyone can thank him.",
-  "backstory": "A scholar's son from Veridia, Kaiden was blessed—or cursed—by a lightning strike that tore him from his timeline and gave him the power to walk through ages. His first lesson in time was brutal: his accidental interference in a peaceful protest sparked a tyranny that never should have existed, and every attempt to fix it only made the timeline fray. Now he wanders the centuries as a knight-errant of history, no longer trying to change the grand tapestry, but quietly protecting the individual threads within it—each saved life a small redemption for the past he can never undo.",
-  "trivia": [
-    "Refuses to step foot on 1347 Europe",
-    "Owns a surprisingly good singing voice",
-    "Gets hopelessly lost in cities he's visited a dozen times because 'the layout changes, okay?'"
-  ],
-  "gallery": [
-    "Kai1.png",
-    "Kai2.png",
-    "Kai3.png"
-  ],
-  "relationships": []
-    }
-  ]
-}
