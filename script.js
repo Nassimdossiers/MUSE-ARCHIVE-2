@@ -1661,13 +1661,13 @@ async function loadDatabase(){
 
 muses=
 await safeLoad(
-"data/muses.json"
+"muses.json"
 );
 
 
 quotes=
 await safeLoad(
-"data/quotes.json"
+"quotes.json"
 );
 
 
