@@ -1,46 +1,31 @@
 [
   {
     "id": "steel",
-
     "name": "STEEL",
-
     "nickname": "The Rockstar",
-
     "species": "Arcanine",
-
     "age": 26,
-
     "height": "6'0\"",
-
     "occupation": "Musician",
-
     "status": "Alive",
-
     "pronouns": "He / Him",
-
     "tags": [
       "furry",
       "original"
     ],
-
     "quote": "Let's give it all!",
-
     "description": "Playful and incredibly loyal to those he cares about. Unarguably easy to get flustered or embarrassed, experiencing difficulties with  reacting to flirt ...",
-
     "backstory": "World-wide famous star of the music industry with a ruined childhood traceable to his father with a ravishing obsession regarding steel's future career.",
-
     "trivia": [
       "Calls his electric guitar a 'She'",
       "Coffee addict",
       "Adores randomly buying you things"
     ],
-
     "gallery": [
       "Untitled276_20260629141347.png",
       "Untitled276_20260629141420.png",
       "Untitled276_20260629140928.png"
     ],
-
     "relationships": [
       {
         "id": "alfie",
@@ -52,50 +37,33 @@
       }
     ]
   },
-
-
   {
     "id": "alfie",
-
     "name": "ALFIE",
-
     "nickname": "Your Patron",
-
     "species": "Luxray",
-
     "age": 28,
-
     "height": "6'3\"",
-
     "occupation": "Club Owner",
-
     "status": "Alive",
-
     "pronouns": "He / Him",
-
     "tags": [
       "furry",
       "original"
     ],
-
     "quote": "The lights go off.",
-
     "description": "Sophisticated and endlessly charming, he runs his establishment with quiet confidence. Behind his composed demeanor lies a man who notices everything and forgets nothing.",
-
-    "backstory": "The eldest of two brothers, he endured the same abusive childhood but chose a different path—building a luxurious adult club from the ground up where respect, discretion, and loyalty became the foundation of his empire.",
-
+    "backstory": "The eldest of two brothers, he endured the same abusive childhood but chose a different path—building a luxurious adult club from the ground up where respect, discretion, and loyal[...]",
     "trivia": [
       "NEVER late",
       "Keeps a lighter despite never smoking",
       "Secretly feeds strays behind the club"
     ],
-
     "gallery": [
       "Untitled276_20260629175404.png",
       "Untitled276_20260629181038.png",
       "Untitled276_20260629181058.png"
     ],
-
     "relationships": [
       {
         "id": "steel",
@@ -107,49 +75,33 @@
       }
     ]
   },
-  
   {
     "id": "nurko",
-
     "name": "NURKO",
-
     "nickname": "The Asshole",
-
     "species": "Incineroar",
-
     "age": 25,
-
     "height": "6'2\"",
-
     "occupation": "Musician",
-
     "status": "Alive",
-
     "pronouns": "He / Him",
-
     "tags": [
       "furry",
       "original"
     ],
-
     "quote": "Yeah! That'z my name!",
-
-    "description": "An insufferable smartass with a talent for getting under people's skin. Reckless, brutally honest, and allergic to authority, he somehow manages to be both everyone's headache and the life of the party.",
-
-    "backstory": "A natural-born troublemaker who found purpose on stage rather than in classrooms or workplaces. Joining Steel's band gave him the family he never expected—but it also introduced him to the one person he simply couldn't stand: Steel's older brother, whose constant lectures and remarks only fueled his rebellious nature.",
-
+    "description": "An insufferable smartass with a talent for getting under people's skin. Reckless, brutally honest, and allergic to authority, he somehow manages to be both everyone's headache and [...]",
+    "backstory": "A natural-born troublemaker who found purpose on stage rather than in classrooms or workplaces. Joining Steel's band gave him the family he never expected—but it also introduced hi[...]",
     "trivia": [
       "Sweats otherworldly",
       "Forgets to do laundry",
       "Despises Alfie's remarks regarding his behaviour"
     ],
-
     "gallery": [
       "Untitled276_20260629183332.png",
       "Untitled276_20260629183354.png",
       "Untitled276_20260629183406.png"
     ],
-
     "relationships": [
       {
         "id": "steel",
@@ -161,49 +113,33 @@
       }
     ]
   },
-
   {
     "id": "deaaron",
-
     "name": "DE'AARON",
-
     "nickname": "The Bartender",
-
     "species": "Tideborn Dragon",
-
     "age": 28,
-
     "height": "6'5\"",
-
     "occupation": "Bartender",
-
     "status": "Alive",
-
     "pronouns": "He / Him",
-
     "tags": [
       "furry",
       "original"
     ],
-
     "quote": "Just don't overdose it. Alright?",
-
-    "description": "A gentle giant of turquoise scales and warm aqua eyes, De'Aaron's massive frame belies his soft-spoken nature. He spends his days saving lives from the sea and his nights mixing drinks that mend them.",
-
-    "backstory": "Cast out by his Tideborn clan for his kindness toward humans, he built a new life on the shore. Now he guards the coast that once rejected him, proving that mercy is its own strength.",
-
+    "description": "A gentle giant of turquoise scales and warm aqua eyes, De'Aaron's massive frame belies his soft-spoken nature. He spends his days saving lives from the sea and his nights mixing dr[...]",
+    "backstory": "Cast out by his Tideborn clan for his kindness toward humans, he built a new life on the shore. Now he guards the coast that once rejected him, proving that mercy is its own strength[...]",
     "trivia": [
       "Has a mortal fear of jellyfish",
       "Nothing off the rack fits his frame",
       "Can hold his breath for 47 minutes"
     ],
-
     "gallery": [
       "Aaron1.png",
       "Aaron2.png",
       "Aaron3.png"
     ],
-
     "relationships": [
       {
         "id": "alfie",
@@ -211,154 +147,100 @@
       }
     ]
   },
-
   {
     "id": "varko",
-
     "name": "VARKO",
-
     "nickname": "Your Gym Bro",
-
     "species": "Wolf-Husky Hybrid",
-
     "age": 26,
-
     "height": "6'3\"",
-
     "occupation": "College Student",
-
     "status": "Alive",
-
     "pronouns": "He / Him",
-
     "tags": [
       "furry",
       "original"
     ],
-
     "quote": "Wooah, that's so fuckin' gay, bro.",
-
-    "description": "A scruffy wolf-husky hybrid with mismatched ears and a perpetually crooked grin, your gym bro is all lean muscle and chaotic energy. He smells like protein powder and cheap cologne, and he'll spot your bench press whether you asked or not.",
-
-    "backstory": "Flunked out of pre-med after one semester because he kept skipping anatomy to hit the squat rack. Now he's coasting through a kinesiology degree, tutoring jocks and failing calc, but secretly the most loyal friend you'll ever have. His pack is his gym crew, and he'd spot you through anything—literally or emotionally, though he'll never admit the second part.",
-
+    "description": "A scruffy wolf-husky hybrid with mismatched ears and a perpetually crooked grin, your gym bro is all lean muscle and chaotic energy. He smells like protein powder and cheap cologne[...]",
+    "backstory": "Flunked out of pre-med after one semester because he kept skipping anatomy to hit the squat rack. Now he's coasting through a kinesiology degree, tutoring jocks and failing calc, but[...]",
     "trivia": [
       "Addicted to flexing in the mirror",
       "Eats the same meal every single day",
       "Calls everyone a 'bro' regardless of age, gender or species"
     ],
-
     "gallery": [
       "Varko1.png",
       "Varko2.png",
       "Varko3.png"
     ],
-
     "relationships": [
       {
         "id": "steel",
         "type": "Idol"
       },
-    
       {
         "id": "alfie",
         "type": "Collector"
       }
     ]
   },
-
   {
     "id": "racc",
-
     "name": "RACC",
-
     "nickname": "The Stalker",
-
     "species": "Half-human, Half-monster",
-
     "age": null,
-
     "height": "Variable",
-
     "occupation": "Following you",
-
     "status": "Alive",
-
     "pronouns": "He / Him",
-
     "tags": [
       "human",
       "original"
     ],
-
     "quote": "You only see him when it's already too late.",
-
-    "description": "A masked figure of sharp angles and cold pale skin, Racc moves through the world as a living shadow—silent, invisible at will, and gone before you can blink. His voice is a gravelly echo that freezes blood, and his tongue is an inhumanly long weapon he wields with unsettling precision. He is the urban legend who never spares—until he met someone who made him pause.",
-
-    "backstory": "Once a faceless killer who haunted the city as 'The Stalker'. Racc was meant to end a single target and vanish like every job before. But when his axe hung mid-swing and his instincts screamed stop, he disappeared—only to return, again and again, watching from shadows and reflections until watching became staying. Now you are the only name he knows, the only person who can say 'Racc' and live, and the first mistake he's never wanted to correct.",
-
+    "description": "A masked figure of sharp angles and cold pale skin, Racc moves through the world as a living shadow—silent, invisible at will, and gone before you can blink. His voice is a grave[...]",
+    "backstory": "Once a faceless killer who haunted the city as 'The Stalker'. Racc was meant to end a single target and vanish like every job before. But when his axe hung mid-swing and his instinct[...]",
     "trivia": [
       "Abandons limbs as gifts for you",
       "Teleports into your room just to steal a single bite of your food",
       "Can dislocate a jaw in under a second but cannot fold a fitted sheet."
     ],
-
     "gallery": [
       "Racc1.png",
       "Racc2.png",
       "Racc3.png"
     ],
-
     "relationships": []
-          }
-    ]
   },
-  
   {
     "id": "alistair",
-
     "name": "ALISTAIR",
-
     "nickname": "The Lightbringer",
-
     "species": "Human",
-
     "age": 32,
-
     "height": "5'9\"",
-
     "occupation": "Knight-for-hire",
-
     "status": "Alive",
-
     "pronouns": "He / Them",
-
     "tags": [
       "human",
       "original"
     ],
-
     "quote": "Suffocate on the eternal bliss.",
-
-    "description": "A weathered knight with cold gray eyes and dirty-blond hair streaked white at the temple, Alistair wears his battered plate armor like a second skin—each dent a story, each scar a lesson. He fights with brutal efficiency and zero wasted movement, a man who's seen the worst and come out the other side unbroken. Though his gaze can freeze enemies mid-swing, it softens into something almost vulnerable when he's caught off guard or feeling pouty.",
-
-    "backstory": "Once a commander in the Order of Iron Cross who upheld law above all, Alistair was branded a traitor when he refused to carry out a royal-ordered massacre. Stripped of his title and left for dead, he now wanders alone as a knight-for-hire, serving no banner but his own code of justice. He's feared by the guilty, respected by mercenaries, and still looking for something—or someone—worth staying for.",
-
+    "description": "A weathered knight with cold gray eyes and dirty-blond hair streaked white at the temple, Alistair wears his battered plate armor like a second skin—each dent a story, each scar [...]",
+    "backstory": "Once a commander in the Order of Iron Cross who upheld law above all, Alistair was branded a traitor when he refused to carry out a royal-ordered massacre. Stripped of his title and [...]",
     "trivia": [
       "Snores like a dying bear",
       "His hidden boot dagger is named 'Herbert' and he will defend this choice.",
       "Has a secret sweet tooth and will barter his sword skills for a good pastry."
     ],
-
     "gallery": [
       "Alistair1.png",
       "Alistair2.png",
       "Alistair3.png"
     ],
-
     "relationships": []
-          }
-    ]
   }
-
 ]
