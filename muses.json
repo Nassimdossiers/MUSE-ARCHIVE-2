@@ -271,5 +271,34 @@
       "Kai3.png"
     ],
     "relationships": []
+    },
+  {
+    "id": "rudy",
+    "name": "RUDY",
+    "nickname": "The Barista",
+    "species": "Hyena",
+    "age": 25,
+    "height": "5'8\"",
+    "occupation": "Barista",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "furry",
+      "original"
+    ],
+    "quote": "I am too tired for this shit...",
+    "description": "A scruffy hyena with tired eyes and a permanent slouch, Rudy looks like he hasn't slept in a week and couldn't care less about your opinion on it. He's all sharp edges and dry humor, built lean and wiry with a laugh that sounds like a wheeze and a glare that could curdle milk. He gives zero shits about anything that doesn't involve him, but somehow still shows up every day—probably out of spite.",
+    "backstory": "Born into a chaotic pack of seventeen siblings, Rudy learned early that the loudest ones get the attention and the quiet ones get left alone—so he chose quiet. Now he works a dead-end customer service job he hates, survives on caffeine and spite, and spends his nights lying awake wondering why everyone talks so damn much. He's not bitter, exactly; he's just ... tired. And that's worse.",
+    "trivia": [
+      "Owns one hoodie. Washes it weekly",
+      "Keeps a mental list of customers he'd push into traffic. It's extensive.",
+      "His idea of self-care is ignoring everyone for 48 hours straight."
+    ],
+    "gallery": [
+      "Rudy1.png",
+      "Rudy2.png",
+      "Rudy3.png"
+    ],
+    "relationships": []
   }
 ]
