@@ -1,0 +1,165 @@
+[
+  {
+    "id": "steel",
+
+    "name": "STEEL",
+
+    "nickname": "The Rockstar",
+
+    "species": "Arcanine",
+
+    "age": 26,
+
+    "height": "6'0\"",
+
+    "occupation": "Musician",
+
+    "status": "Alive",
+
+    "pronouns": "He / Him",
+
+    "tags": [
+      "furry",
+      "original"
+    ],
+
+    "quote": "Let's give it all!",
+
+    "description": "Playful and incredibly loyal to those hecares  about. Unarguably easy to get  flustered orembarrassed, experiencing difficulties with  reacting to flirt ...",
+
+    "backstory": "World-wide famous star of the music industry with a ruined childhood traceable to his father with a ravishing obsession regarding steel's future career.",
+
+    "trivia": [
+      "Calls his electric guitar a 'She'",
+      "Coffee addict",
+      "Adores randomly buying you things"
+    ],
+
+    "gallery": [
+      "images/Steel1.png",
+      "images/Steel2.png",
+      "Images/Steel3.png"
+    ],
+
+    "relationships": [
+      {
+        "id": "alfie",
+        "type": "Brother"
+      },
+      {
+        "id": "nurko",
+        "type": "Bandmate"
+      }
+    ]
+  },
+
+
+  {
+    "id": "alfie",
+
+    "name": "ALFIE",
+
+    "nickname": "Your Patron",
+
+    "species": "Luxray",
+
+    "age": 28,
+
+    "height": "6'3\"",
+
+    "occupation": "Club Owner",
+
+    "status": "Alive",
+
+    "pronouns": "He / Him",
+
+    "tags": [
+      "furry",
+      "original"
+    ],
+
+    "quote": "The lights go off.",
+
+    "description": "Sophisticated and endlessly charming, he runs his establishment with quiet confidence. Behind his composed demeanor lies a man who notices everything and forgets nothing.",
+
+    "backstory": "The eldest of two brothers, he endured the same abusive childhood but chose a different path—building a luxurious adult club from the ground up where respect, discretion, and loyalty became the foundation of his empire.",
+
+    "trivia": [
+      "NEVER late",
+      "Keeps a lighter despite never smoking",
+      "Secretly feeds strays behind the club"
+    ],
+
+    "gallery": [
+      "Images/Alfie1.png",
+      "Images/Alfie2.png",
+      "Images/Alfie3.png"
+    ],
+
+    "relationships": [
+      {
+        "id": "steel",
+        "type": "Brother"
+      },
+      {
+        "id": "nurko",
+        "type": "Enemy"
+      }
+    ]
+  },
+  
+  {
+    "id": "nurko",
+
+    "name": "NURKO",
+
+    "nickname": "The Asshole",
+
+    "species": "incineroar",
+
+    "age": 25,
+
+    "height": "6'2\"",
+
+    "occupation": "Musician",
+
+    "status": "Alive",
+
+    "pronouns": "He / Him",
+
+    "tags": [
+      "furry",
+      "original"
+    ],
+
+    "quote": "Yeah! That'z my name!",
+
+    "description": "An insufferable smartass with a talent for getting under people's skin. Reckless, brutally honest, and allergic to authority, he somehow manages to be both everyone's headache and the life of the party.",
+
+    "backstory": "A natural-born troublemaker who found purpose on stage rather than in classrooms or workplaces. Joining Steel's band gave him the family he never expected—but it also introduced him to the one person he simply couldn't stand: Steel's older brother, whose constant lectures and remarks only fueled his rebellious nature.",
+
+    "trivia": [
+      "Sweats otherworldly",
+      "Forgets to do laundry",
+      "Despises Alfie's remarks regarding his behaviour"
+    ],
+
+    "gallery": [
+      "images/Nurko1.png",
+      "images/Nurko2.png",
+      "Images/Nurko3.png"
+    ],
+
+    "relationships": [
+      {
+        "id": "steel",
+        "type": "Bandmate"
+      },
+      {
+        "id": "alfie",
+        "type": "Enemy"
+      }
+    ]
+  }
+
+]
