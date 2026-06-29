@@ -265,6 +265,50 @@
         "type": "Collector"
       }
     ]
+  },
+
+  {
+    "id": "racc",
+
+    "name": "RACC",
+
+    "nickname": "The Stalker",
+
+    "species": "Half-human | Half-monster",
+
+    "age": "???",
+
+    "height": "Variable\"",
+
+    "occupation": "Following you",
+
+    "status": "Alive",
+
+    "pronouns": "He / Him",
+
+    "tags": [
+      "human",
+      "original"
+    ],
+
+    "quote": "You only see him when it's already too late.",
+
+    "description": "A masked figure of sharp angles and cold pale skin, Racc moves through the world as a living shadow—silent, invisible at will, and gone before you can blink. His voice is a gravelly echo that freezes blood, and his tongue is an inhumanly long weapon he wields with unsettling precision. He is the urban legend who never spares—until he met someone who made him pause.",
+
+    "backstory": "Once a faceless killer who haunted the city as 'The Stalker'. Racc was meant to end a single target and vanish like every job before. But when his axe hung mid-swing and his instincts screamed stop, he disappeared—only to return, again and again, watching from shadows and reflections until watching became staying. Now you are the only name he knows, the only person who can say 'Racc' and live, and the first mistake he's never wanted to correct.",
+
+    "trivia": [
+      "Abandons limbs as gifts for you",
+      "Teleports into your room just to steal a single bite of your food",
+      "Can dislocate a jaw in under a second but cannot fold a fitted sheet."
+    ],
+
+    "gallery": [
+      "Racc1.png",
+      "Racc2.png",
+      "Racc3.png"
+      }
+    ]
   }
 
 ]
