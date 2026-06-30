@@ -441,7 +441,36 @@
     "gallery": [
       "Hellion1.png",
       "Hellion2.png",
-      "Hellion2.png"
+      "Hellion3.png"
+    ],
+    "relationships": []
+        },
+  {
+    "id": "ando",
+    "name": "ANDO",
+    "nickname": "The Firestarter",
+    "species": "Human",
+    "age": 28,
+    "height": "6"0\"",
+    "occupation": "Formula 1 driver for Scuderia AlphaTauri",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "original",
+      "human"
+    ],
+    "quote": "Not listening. Not anymore",
+    "description": "A flash of lime-green and easy smiles, Ando Hiroji moves through the paddock like he's already won something—even when he hasn't. His dark hair is always slightly tousled from helmet hair, and his eyes crinkle at the corners when he laughs, which is often, because he's convinced that racing is too fun to take seriously. He's the kind of driver who waves at fans mid-corner and still manages to podium, because speed doesn't have to mean stress.",
+    "backstory": "Born and raised in Tokyo, Hiroji fell in love with racing through old VHS tapes of Japanese Grand Prix legends, watching them slide through rain and smoke with impossible grace—and decided that was exactly what he wanted to do, but with more smiling. He clawed his way through the junior categories on raw talent and an infectious optimism that made everyone from engineers to rivals root for him, eventually landing a seat at Alpha Tauri where he became known as the paddock's favorite chaos agent. He's not the fastest on paper, but he's the one who'll send it down the inside in the rain, laugh about it later, and somehow walk away with points and a new friend.",
+    "trivia": [
+      "Speaks fluent Japanese, English, and enough Italian to order coffee and flirt. In that order.",
+      "Keeps a photo of his family's ramen shop in his cockpit. Looks at it before every start.",
+      "His engineer has a dedicated mute button for team radio. It gets used approximately 47 times per race weekend."
+    ],
+    "gallery": [
+      "Ando1.png",
+      "Ando2.png",
+      "Ando3.png"
     ],
     "relationships": []
   }
