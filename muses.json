@@ -559,7 +559,7 @@
       "thatcher2.png",
       "thatcher3.png"
     ],
-    "relationships": []
+    "relationships": [
           {
         "id": "asphalt",
         "type": "Lover"
@@ -593,7 +593,7 @@
       "Asphalt2.png",
       "Asphalt3.png"
     ],
-    "relationships": []
+    "relationships": [
           {
         "id": "thatcher",
         "type": "Enemy, Lover"
