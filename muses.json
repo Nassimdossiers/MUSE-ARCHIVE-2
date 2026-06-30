@@ -358,5 +358,34 @@
       "Rook3.png"
     ],
     "relationships": []
+    },
+  {
+    "id": "elias",
+    "name": "ELIAS",
+    "nickname": "The Ornithologist",
+    "species": "Human",
+    "age": 33,
+    "height": "6'0\"",
+    "occupation": "Wildlife Control",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "human",
+      "original"
+    ],
+    "quote": "They warn you... if you know how to hear it.",
+    "description": "A wiry, exhausted-looking man with hollow eyes and a voice that barely rises above a murmur, Elias moves through the world like someone who's spent too long listening to things that don't speak back. He wears the quiet of the forest like a second skin, and his connection to crows is unsettling—they don't scatter around him, they wait. He looks like he hasn't slept in years, but his gaze sharpens the moment something moves wrong in the corner of his vision.",
+    "backstory": "Born on the edge of a forest that watched him as much as he watched it, Elias learned early that crows weren't pests—they were messengers, if you knew how to listen. He turned that obsession into a career in wildlife control, until reports of flocks gathering in impossible numbers led him into a rotting stretch of woods where the air felt wrong and something ancient waited on a rusted hook. The fog rolled in, the crows didn't abandon him, and now in the Entity's realm, they don't just scatter—they warn.",
+    "trivia": [
+      "Pouts the moment crows ignore him",
+      "Drinks tea that's steeped so long it's basically brown water with regrets.",
+      "Secretly terrible with technology—his phone is from 2012 and he refuses to upgrade."
+    ],
+    "gallery": [
+      "Elias1.png",
+      "Elias2.png",
+      "Elias3.png"
+    ],
+    "relationships": []
   }
 ]
