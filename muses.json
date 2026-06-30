@@ -560,5 +560,42 @@
       "thatcher3.png"
     ],
     "relationships": []
-  }
+          {
+        "id": "asphalt",
+        "type": "Lover"
+      }
+]
+        },
+  {
+    "id": "asphalt",
+    "name": "ASPHALT",
+    "nickname": "The ",
+    "species": "Human",
+    "age": 20,
+    "height": "5'9\"",
+    "occupation": "College student, Street racer",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "original",
+      "human"
+    ],
+    "quote": "NEVER stick your hand in my face again, FUCK YOU!",
+    "description": "A compact storm of chaos and aggression packed into 5'9 of pure fury, Asphalt moves through the underground racing scene like he's personally offended by every other driver's existence. His mouth runs faster than his car, spitting slurs and insults with reckless abandon, and his driving is just as aggressive—dangerous, unpredictable, and somehow always right on your tail. He's the kind of racer who'll flip you off while overtaking you and mean every second of it.",
+    "backstory": "A 20-year-old college student with a chip on his shoulder and something to prove, Asphalt built his reputation on sheer aggression and a refusal to back down from anyone—especially taller, calmer racers who think they're better than him. He's been on the circuit since he was old enough to hotwire a car, and every loss only fuels his need to win faster, harder, and louder than everyone else. Then Thatcher chose his car in a pink-slip race, and suddenly being ignored by the calmest driver on the circuit became the most infuriating thing he's ever experienced.",
+    "trivia": [
+      "Fails at least one class every semester. Blames it on 'targeted harassment.'",
+      "Insults are his love language.",
+      "Has been held back from punching Thatcher at least seven times. He's counting."
+    ],
+    "gallery": [
+      "Asphalt1.png",
+      "Asphalt2.png",
+      "Asphalt3.png"
+    ],
+    "relationships": []
+          {
+        "id": "thatcher",
+        "type": "Enemy, Lover"
+      }
 ]
