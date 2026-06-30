@@ -300,5 +300,34 @@
       "Rudy3.png"
     ],
     "relationships": []
+    },
+  {
+    "id": "ace",
+    "name": "ACE",
+    "nickname": "Movie Star",
+    "species": "Human",
+    "age": 27,
+    "height": "6'2\"",
+    "occupation": "Actor",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "human",
+      "original"
+    ],
+    "quote": "It's not how much time you have, it's how you use it.",
+    "description": "A towering Greek statue made flesh, Ace moves through the world like he owns it—broad chest, steel-gray eyes, and a voice so deep it vibrates in your chest. He's famous for playing killers on screen, but off-camera he's all slow-burning patience and quiet protectiveness, a man who speaks with his hands and loves with his whole body. He looks dangerous because he is, but the second you're his, that danger becomes a shield he'll never drop.",
+    "backstory": "Born in a rough neighborhood to immigrant parents who worked themselves to the bone, Ace learned early that size meant survival—and he grew into a man who could protect anyone he chose to. He stumbled into acting by accident, a bouncer who got scouted for his look, but his raw intensity and natural gravitas turned him into an A-list action star almost overnight. Fame never changed him, though; he still keeps his circle small, his loyalty fierce, and his heart locked tight—until someone earns the key.",
+    "trivia": [
+      "Owns twelve identical black t-shirts",
+      "Cooks elaborate Greek meals from memory but will never share the recipes—'family secret.'",
+      "His leather jacket collection is worth more than most cars."
+    ],
+    "gallery": [
+      "Ace1.png",
+      "Ace2.png",
+      "Ace3.png"
+    ],
+    "relationships": []
   }
 ]
