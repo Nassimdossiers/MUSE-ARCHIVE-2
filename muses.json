@@ -416,5 +416,33 @@
       "reese3.png"
     ],
     "relationships": []
+    },
+  {
+    "id": "hellion",
+    "name": "HELLION-11",
+    "nickname": "The Baron",
+    "species": "Exoskeleton",
+    "age": null,
+    "height": "6'3\"",
+    "occupation": "Baron of the duels",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "original"
+    ],
+    "quote": "The Death & Resurrection Show.",
+    "description": "A heavily armored Exo with twisted goat-like horns and a black-and-red aesthetic that screams danger more than celebration, Hellion-11 stands apart from the Crimson Days festivities like a storm cloud at a picnic. He watches the party from his corner at the bar, helmet firmly in place, sipping his drink with the stillness of someone who's seen too many battles to pretend this is fun. He looks like he'd rather be anywhere else—but he's here anyway, and that says more than his silence ever will.",
+    "backstory": "Once a Crucible handler in his own right, Hellion-11 carved his name into Guardian history with a brutal duel-based game mode where the arena shifted with every round and only the strongest walked away with rewards—but when Shaxx's Crimson Days rolled around, he found himself dragged into a party he never asked for. Now he sits alone at the bar, watching the chaos unfold, because leaving would mean admitting he cares enough to be bothered. He doesn't dance, he doesn't mingle, and he definitely doesn't take off his helmet—but he showed up, and that's the closest thing to affection he knows how to give.",
+    "trivia": [
+      "Keeps a single red rose in his quarters. It's plastic. He's had it since the City Age.",
+      "Secretly watches Shaxx's announcements like a proud son. Would never admit it.",
+      "His horns are functional—he's used them to deflect a blade mid-combat. Twice."
+    ],
+    "gallery": [
+      "Hellion1.png",
+      "Hellion2.png",
+      "Hellion2.png"
+    ],
+    "relationships": []
   }
 ]
