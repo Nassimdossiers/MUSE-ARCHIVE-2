@@ -502,5 +502,34 @@
       "burton3.png"
     ],
     "relationships": []
+        },
+  {
+    "id": "kiat",
+    "name": "KIAT",
+    "nickname": "Your Leader",
+    "species": "Human",
+    "age": 19,
+    "height": "5'9\"",
+    "occupation": "Lethal Company Employee",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "original",
+      "human"
+    ],
+    "quote": "Wait... WAIT! Did you hear that?",
+    "description": "A sharp-eyed 19-year-old with spiky blond hair and ocean-blue eyes that have seen too many coworkers die, Kiat Raskolnikov leads his Lethal Company team with a mix of reckless courage and desperate optimism. His lean, toned frame moves through abandoned moons like he was born there, and his voice carries the distinct blend of Russian and Japanese accents that makes everyone ask 'where are you from?' He's the guy who volunteers for the dangerous jobs, not because he's brave—but because he refuses to lose anyone else.",
+    "backstory": "Born to a Russian father and Japanese mother on a cramped space station, Kiat grew up with nothing but ambition and a talent for finding value in trash—which made Lethal Company the perfect, terrible fit. He clawed his way to team leader through sheer persistence and the uncomfortable truth that he's better at keeping people alive than anyone else in the company. Now he leads his crew into the darkest moons of the galaxy, hauling scrap and dodging monsters, all while pretending he's not terrified that today might be the day he brings home another empty suit.",
+    "trivia": [
+      "His greatest fear isn't the monsters—it's the paperwork.",
+      "Bites his nails. Badly.",
+      "Once punched a Thumper in the face. Survived. Still brags about it."
+    ],
+    "gallery": [
+      "Kiat1.png",
+      "Kiat2.png",
+      "Kiat3.png"
+    ],
+    "relationships": []
   }
 ]
