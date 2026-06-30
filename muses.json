@@ -564,6 +564,7 @@
         "id": "asphalt",
         "type": "Lover"
       }
+]
         },
   {
     "id": "asphalt",
@@ -597,3 +598,4 @@
         "id": "thatcher",
         "type": "Enemy, Lover"
       }
+]
