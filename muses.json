@@ -387,5 +387,34 @@
       "Elias3.png"
     ],
     "relationships": []
+    },
+  {
+    "id": "reese",
+    "name": "REESE",
+    "nickname": "The Mercenary",
+    "species": "Human",
+    "age": 31,
+    "height": "6'3\"",
+    "occupation": "Former Atlas operative",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "human",
+      "original"
+    ],
+    "quote": "Tell me why you need to feel these things that are not real.",
+    "description": "A lean shadow with dark hazel eyes that have seen too much and hands that have done worse, Reese Kaine moves like a man who's always three steps ahead of the bullet meant for him. His compact, toned frame is built for speed and precision rather than brute force—a survivor's body shaped by Pandora's unforgiving wastes. He looks like he could kill you before you blink, but there's something tired in his gaze that says he's been running from that version of himself for years.",
+    "backstory": "Once an elite operative for Atlas, Reese was the kind of soldier who followed orders without question—until he saw what those orders were actually doing to the people on the ground. He went rogue the night he was ordered to eliminate a settlement of innocents, disappearing into Pandora's dust and taking everything he knew about Atlas's operations with him. Now he works as a mercenary and infiltrator, using the skills they gave him to protect the people they would have destroyed, always watching over his shoulder for the day his former handlers finally catch up.",
+    "trivia": [
+      "His official stance is 'I'm not obsessed.' His unofficial stance is clinging to Krieg's bicep like a koala at any given opportunity.",
+      "Tina calls him 'Dad' when she wants something. He pretends to hate it. He's a liar.",
+      "Can hotwire any vehicle on Pandora but cannot parallel park to save his life."
+    ],
+    "gallery": [
+      "reese1.png",
+      "reese2.png",
+      "reese3.png"
+    ],
+    "relationships": []
   }
 ]
