@@ -315,7 +315,7 @@
       "human",
       "original"
     ],
-    "quote": "It's not how much time you have, it's how you use it.",
+    "quote": "Time and time again.",
     "description": "A towering Greek statue made flesh, Ace moves through the world like he owns it—broad chest, steel-gray eyes, and a voice so deep it vibrates in your chest. He's famous for playing killers on screen, but off-camera he's all slow-burning patience and quiet protectiveness, a man who speaks with his hands and loves with his whole body. He looks dangerous because he is, but the second you're his, that danger becomes a shield he'll never drop.",
     "backstory": "Born in a rough neighborhood to immigrant parents who worked themselves to the bone, Ace learned early that size meant survival—and he grew into a man who could protect anyone he chose to. He stumbled into acting by accident, a bouncer who got scouted for his look, but his raw intensity and natural gravitas turned him into an A-list action star almost overnight. Fame never changed him, though; he still keeps his circle small, his loyalty fierce, and his heart locked tight—until someone earns the key.",
     "trivia": [
@@ -327,6 +327,35 @@
       "Ace1.png",
       "Ace2.png",
       "Ace3.png"
+    ],
+    "relationships": []
+    },
+  {
+    "id": "rook",
+    "name": "ROOK",
+    "nickname": "Most Wanted",
+    "species": "German Shepherd",
+    "age": 26,
+    "height": "6'1\"",
+    "occupation": "Former Serviceman",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "furry",
+      "original"
+    ],
+    "quote": "It just... feels like it should.",
+    "description": "A smoky-brown German Shepherd with hazel eyes that hold golden fire and a face that's seen too much, Rook moves like a ghost through a world that wants him dead. He's lean and wiry, built for survival rather than show, with scars that tell stories he'll never share and a voice that only drops when something matters. He looks like he could kill you without blinking—and he could—but the way he sharpens his knives when he's thinking says more about his guilt than his violence.",
+    "backstory": "Once a decorated soldier in the elite task force VANTAGE, Rook believed he was protecting the world until a single raid shattered the lie—standing over a terrified lynx child in a burning village, he realized he'd been terrorizing innocents, not saving them. He carried that child to safety, abandoned his unit, and spent six years as a ghost, drowning in guilt and cheap whiskey. Now the lynx he saved, Eliott, has found him again—and together, they're running from the same corrupt force that destroyed them both, slowly building something human from the wreckage.",
+    "trivia": [
+      "His only social media is a burner account he uses to watch cooking videos for Eliott at 3 AM.",
+      "Shaves with a straight razor because it's 'efficient.'",
+      "Speaks fluent German from his grandmother, who taught him before she passed. He only uses it when drunk or dreaming."
+    ],
+    "gallery": [
+      "Rook1.png",
+      "Rook2.png",
+      "Rook3.png"
     ],
     "relationships": []
   }
