@@ -473,5 +473,34 @@
       "Ando3.png"
     ],
     "relationships": []
+        },
+  {
+    "id": "burton",
+    "name": "S. BURTON",
+    "nickname": "Reluctant Rescue",
+    "species": "Human, Grunt",
+    "age": 32,
+    "height": "6'5\"",
+    "occupation": "Independent Mercenary",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "original",
+      "human"
+    ],
+    "quote": "No one knows. Good.",
+    "description": "A towering wall of pure muscle wrapped in a worn leather jacket and permanent exhaustion, S. Burton moves like a man who's too big to hide but too smart to get caught. His sharp eyes and permanent dark circles sit beneath an unkempt mop of dark hair, and his faded AAHW prisoner barcode is a constant reminder of the hell he survived. He's cynical, witty, and defiant—the kind of guy who'll crack a joke while snapping a neck and somehow make both look effortless.",
+    "backstory": "Pulled from an AAHW prison cell by Hank's cell for reasons no one's ever explained, Burton proved himself useful enough to keep around—becoming the group's strategist, infiltrator, and the only person who can hack a terminal and throw a punch in the same breath. He bonded with Deimos over shared intelligence and cigarettes he doesn't even smoke, tolerates Sanford as the only sane one, and exists in a state of mutual disdain with Hank that somehow hasn't resulted in friendly fire yet. Now he fights to prove his worth, protect the few connections he has, and never—ever—end up back in that cell.",
+    "trivia": [
+      "Once lifted a broken jeep off Deimos. Didn't brag. Just walked away.",
+      "Hasn't slept through the night since the prison.",
+      "His horns are functional—he's used them to deflect a blade mid-combat. Twice."
+    ],
+    "gallery": [
+      "burton.png",
+      "burton2.png",
+      "burton3.png"
+    ],
+    "relationships": []
   }
 ]
