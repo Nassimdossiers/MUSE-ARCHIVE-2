@@ -531,5 +531,34 @@
       "Kiat3.png"
     ],
     "relationships": []
+        },
+  {
+    "id": "thatcher",
+    "name": "Thatcher",
+    "nickname": "Pinkslip Thief",
+    "species": "Human",
+    "age": 21,
+    "height": "6'2\"",
+    "occupation": "Student, Street Racer",
+    "status": "Alive",
+    "pronouns": "He / Him",
+    "tags": [
+      "original",
+      "human"
+    ],
+    "quote": "To hell we ride.",
+    "description": "A tall, composed figure with sharp features and eyes that never seem to raise above a calm half-lid, Thatcher moves through the underground racing scene like he owns it—because he's won enough races to prove he could. His dark hair is always slightly messy, his hands are always steady on the wheel, and his voice never rises above a measured, almost bored tone, even when he's pushing 200 through city streets. He's the kind of driver who wins without celebrating, because winning is just what he does.",
+    "backstory": "A 21-year-old student by day and illegal street racer by night, Thatcher built his reputation on one simple rule: never lose your cool, and you'll never lose the race. He earned his spot among the city's elite drivers through sheer consistency and ice-cold precision, becoming the calm anchor in a world of chaos—which is exactly why he chose Asphalt's car after a pink-slip race, not because he wanted it, but because he wanted to see what would happen. And what happened was a screaming, furious, beautiful explosion of insults that made the boss laugh and say, 'You made a great choice.'",
+    "trivia": [
+      "Only raises his voice when Asphalt is within earshot.",
+      "Drives with one hand on the wheel, one hand on the gearshift. Always.",
+      "His cars are immaculate. He's the only racer who carries a microfiber cloth in his glovebox."
+    ],
+    "gallery": [
+      "thatcher1.png",
+      "thatcher2.png",
+      "thatcher3.png"
+    ],
+    "relationships": []
   }
 ]
