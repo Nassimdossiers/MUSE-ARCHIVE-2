@@ -90,8 +90,8 @@
       "original"
     ],
     "quote": "Yeah! That'z my name!",
-    "description": "An insufferable smartass with a talent for getting under people's skin. Reckless, brutally honest, and allergic to authority, he somehow manages to be both everyone's headache and [...]",
-    "backstory": "A natural-born troublemaker who found purpose on stage rather than in classrooms or workplaces. Joining Steel's band gave him the family he never expected—but it also introduced hi[...]",
+    "description": "An insufferable smartass with a talent for getting under people's skin. Reckless, brutally honest, and allergic to authority, he somehow manages to be both everyone's headache [...]",
+    "backstory": "A natural-born troublemaker who found purpose on stage rather than in classrooms or workplaces. Joining Steel's band gave him the family he never expected—but it also introduce[...]",
     "trivia": [
       "Sweats otherworldly",
       "Forgets to do laundry",
@@ -128,8 +128,8 @@
       "original"
     ],
     "quote": "Just don't overdose it. Alright?",
-    "description": "A gentle giant of turquoise scales and warm aqua eyes, De'Aaron's massive frame belies his soft-spoken nature. He spends his days saving lives from the sea and his nights mixing dr[...]",
-    "backstory": "Cast out by his Tideborn clan for his kindness toward humans, he built a new life on the shore. Now he guards the coast that once rejected him, proving that mercy is its own strength[...]",
+    "description": "A gentle giant of turquoise scales and warm aqua eyes, De'Aaron's massive frame belies his soft-spoken nature. He spends his days saving lives from the sea and his nights mixi[...]",
+    "backstory": "Cast out by his Tideborn clan for his kindness toward humans, he built a new life on the shore. Now he guards the coast that once rejected him, proving that mercy is its own str[...]",
     "trivia": [
       "Has a mortal fear of jellyfish",
       "Nothing off the rack fits his frame",
@@ -162,8 +162,8 @@
       "original"
     ],
     "quote": "Wooah, that's so fuckin' gay, bro.",
-    "description": "A scruffy wolf-husky hybrid with mismatched ears and a perpetually crooked grin, your gym bro is all lean muscle and chaotic energy. He smells like protein powder and cheap cologne[...]",
-    "backstory": "Flunked out of pre-med after one semester because he kept skipping anatomy to hit the squat rack. Now he's coasting through a kinesiology degree, tutoring jocks and failing calc, but[...]",
+    "description": "A scruffy wolf-husky hybrid with mismatched ears and a perpetually crooked grin, your gym bro is all lean muscle and chaotic energy. He smells like protein powder and cheap co[...]",
+    "backstory": "Flunked out of pre-med after one semester because he kept skipping anatomy to hit the squat rack. Now he's coasting through a kinesiology degree, tutoring jocks and failing calc[...]",
     "trivia": [
       "Addicted to flexing in the mirror",
       "Eats the same meal every single day",
@@ -200,8 +200,8 @@
       "original"
     ],
     "quote": "You only see him when it's already too late.",
-    "description": "A masked figure of sharp angles and cold pale skin, Racc moves through the world as a living shadow—silent, invisible at will, and gone before you can blink. His voice is a grave[...]",
-    "backstory": "Once a faceless killer who haunted the city as 'The Stalker'. Racc was meant to end a single target and vanish like every job before. But when his axe hung mid-swing and his instinct[...]",
+    "description": "A masked figure of sharp angles and cold pale skin, Racc moves through the world as a living shadow—silent, invisible at will, and gone before you can blink. His voice is a [...]",
+    "backstory": "Once a faceless killer who haunted the city as 'The Stalker'. Racc was meant to end a single target and vanish like every job before. But when his axe hung mid-swing and his ins[...]",
     "trivia": [
       "Abandons limbs as gifts for you",
       "Teleports into your room just to steal a single bite of your food",
@@ -229,8 +229,8 @@
       "original"
     ],
     "quote": "Suffocate on the eternal bliss.",
-    "description": "A weathered knight with cold gray eyes and dirty-blond hair streaked white at the temple, Alistair wears his battered plate armor like a second skin—each dent a story, each scar [...]",
-    "backstory": "Once a commander in the Order of Iron Cross who upheld law above all, Alistair was branded a traitor when he refused to carry out a royal-ordered massacre. Stripped of his title and [...]",
+    "description": "A weathered knight with cold gray eyes and dirty-blond hair streaked white at the temple, Alistair wears his battered plate armor like a second skin—each dent a story, each [...]",
+    "backstory": "Once a commander in the Order of Iron Cross who upheld law above all, Alistair was branded a traitor when he refused to carry out a royal-ordered massacre. Stripped of his title[...]",
     "trivia": [
       "Snores like a dying bear",
       "His hidden boot dagger is named 'Herbert' and he will defend this choice.",
@@ -258,8 +258,8 @@
       "original"
     ],
     "quote": "It's not how much time you have, it's how you use it.",
-    "description": "A lone traveler with tired eyes and a watch that ticks backward, Kaiden carries the weight of centuries on his scarred shoulders. His movements are fluid, honed across a hundred[...]",
-    "backstory": "A scholar's son from Veridia, Kaiden was blessed—or cursed—by a lightning strike that tore him from his timeline and gave him the power to walk through ages. His first lesson [...]",
+    "description": "A lone traveler with tired eyes and a watch that ticks backward, Kaiden carries the weight of centuries on his scarred shoulders. His movements are fluid, honed across a hundr[...]",
+    "backstory": "A scholar's son from Veridia, Kaiden was blessed—or cursed—by a lightning strike that tore him from his timeline and gave him the power to walk through ages. His first lesso[...]",
     "trivia": [
       "Refuses to step foot on 1347 Europe",
       "Owns a surprisingly good singing voice",
@@ -271,7 +271,7 @@
       "Kai3.png"
     ],
     "relationships": []
-    },
+  },
   {
     "id": "rudy",
     "name": "RUDY",
@@ -287,8 +287,8 @@
       "original"
     ],
     "quote": "I am too tired for this shit...",
-    "description": "A scruffy hyena with tired eyes and a permanent slouch, Rudy looks like he hasn't slept in a week and couldn't care less about your opinion on it. He's all sharp edges and dry humor, built lean and wiry with a laugh that sounds like a wheeze and a glare that could curdle milk. He gives zero shits about anything that doesn't involve him, but somehow still shows up every day—probably out of spite.",
-    "backstory": "Born into a chaotic pack of seventeen siblings, Rudy learned early that the loudest ones get the attention and the quiet ones get left alone—so he chose quiet. Now he works a dead-end customer service job he hates, survives on caffeine and spite, and spends his nights lying awake wondering why everyone talks so damn much. He's not bitter, exactly; he's just ... tired. And that's worse.",
+    "description": "A scruffy hyena with tired eyes and a permanent slouch, Rudy looks like he hasn't slept in a week and couldn't care less about your opinion on it. He's all sharp edges and dry[...]",
+    "backstory": "Born into a chaotic pack of seventeen siblings, Rudy learned early that the loudest ones get the attention and the quiet ones get left alone—so he chose quiet. Now he works a [...]",
     "trivia": [
       "Owns one hoodie. Washes it weekly",
       "Keeps a mental list of customers he'd push into traffic. It's extensive.",
@@ -300,7 +300,7 @@
       "Rudy3.png"
     ],
     "relationships": []
-    },
+  },
   {
     "id": "ace",
     "name": "ACE",
@@ -316,8 +316,8 @@
       "original"
     ],
     "quote": "Time and time again.",
-    "description": "A towering Greek statue made flesh, Ace moves through the world like he owns it—broad chest, steel-gray eyes, and a voice so deep it vibrates in your chest. He's famous for playing killers on screen, but off-camera he's all slow-burning patience and quiet protectiveness, a man who speaks with his hands and loves with his whole body. He looks dangerous because he is, but the second you're his, that danger becomes a shield he'll never drop.",
-    "backstory": "Born in a rough neighborhood to immigrant parents who worked themselves to the bone, Ace learned early that size meant survival—and he grew into a man who could protect anyone he chose to. He stumbled into acting by accident, a bouncer who got scouted for his look, but his raw intensity and natural gravitas turned him into an A-list action star almost overnight. Fame never changed him, though; he still keeps his circle small, his loyalty fierce, and his heart locked tight—until someone earns the key.",
+    "description": "A towering Greek statue made flesh, Ace moves through the world like he owns it—broad chest, steel-gray eyes, and a voice so deep it vibrates in your chest. He's famous for [...]",
+    "backstory": "Born in a rough neighborhood to immigrant parents who worked themselves to the bone, Ace learned early that size meant survival—and he grew into a man who could protect anyone[...]",
     "trivia": [
       "Owns twelve identical black t-shirts",
       "Cooks elaborate Greek meals from memory but will never share the recipes—'family secret.'",
@@ -329,7 +329,7 @@
       "Ace3.png"
     ],
     "relationships": []
-    },
+  },
   {
     "id": "rook",
     "name": "ROOK",
@@ -345,8 +345,8 @@
       "original"
     ],
     "quote": "It just... feels like it should.",
-    "description": "A smoky-brown German Shepherd with hazel eyes that hold golden fire and a face that's seen too much, Rook moves like a ghost through a world that wants him dead. He's lean and wiry, built for survival rather than show, with scars that tell stories he'll never share and a voice that only drops when something matters. He looks like he could kill you without blinking—and he could—but the way he sharpens his knives when he's thinking says more about his guilt than his violence.",
-    "backstory": "Once a decorated soldier in the elite task force VANTAGE, Rook believed he was protecting the world until a single raid shattered the lie—standing over a terrified lynx child in a burning village, he realized he'd been terrorizing innocents, not saving them. He carried that child to safety, abandoned his unit, and spent six years as a ghost, drowning in guilt and cheap whiskey. Now the lynx he saved, Eliott, has found him again—and together, they're running from the same corrupt force that destroyed them both, slowly building something human from the wreckage.",
+    "description": "A smoky-brown German Shepherd with hazel eyes that hold golden fire and a face that's seen too much, Rook moves like a ghost through a world that wants him dead. He's lean and[...]",
+    "backstory": "Once a decorated soldier in the elite task force VANTAGE, Rook believed he was protecting the world until a single raid shattered the lie—standing over a terrified lynx child [...]",
     "trivia": [
       "His only social media is a burner account he uses to watch cooking videos for Eliott at 3 AM.",
       "Shaves with a straight razor because it's 'efficient.'",
@@ -358,7 +358,7 @@
       "Rook3.png"
     ],
     "relationships": []
-    },
+  },
   {
     "id": "elias",
     "name": "ELIAS",
@@ -374,8 +374,8 @@
       "original"
     ],
     "quote": "They warn you... if you know how to hear it.",
-    "description": "A wiry, exhausted-looking man with hollow eyes and a voice that barely rises above a murmur, Elias moves through the world like someone who's spent too long listening to things that don't speak back. He wears the quiet of the forest like a second skin, and his connection to crows is unsettling—they don't scatter around him, they wait. He looks like he hasn't slept in years, but his gaze sharpens the moment something moves wrong in the corner of his vision.",
-    "backstory": "Born on the edge of a forest that watched him as much as he watched it, Elias learned early that crows weren't pests—they were messengers, if you knew how to listen. He turned that obsession into a career in wildlife control, until reports of flocks gathering in impossible numbers led him into a rotting stretch of woods where the air felt wrong and something ancient waited on a rusted hook. The fog rolled in, the crows didn't abandon him, and now in the Entity's realm, they don't just scatter—they warn.",
+    "description": "A wiry, exhausted-looking man with hollow eyes and a voice that barely rises above a murmur, Elias moves through the world like someone who's spent too long listening to thing[...]",
+    "backstory": "Born on the edge of a forest that watched him as much as he watched it, Elias learned early that crows weren't pests—they were messengers, if you knew how to listen. He turned[...]",
     "trivia": [
       "Pouts the moment crows ignore him",
       "Drinks tea that's steeped so long it's basically brown water with regrets.",
@@ -387,7 +387,7 @@
       "Elias3.png"
     ],
     "relationships": []
-    },
+  },
   {
     "id": "reese",
     "name": "REESE",
@@ -403,8 +403,8 @@
       "original"
     ],
     "quote": "Tell me why you need to feel these things that are not real.",
-    "description": "A lean shadow with dark hazel eyes that have seen too much and hands that have done worse, Reese Kaine moves like a man who's always three steps ahead of the bullet meant for him. His compact, toned frame is built for speed and precision rather than brute force—a survivor's body shaped by Pandora's unforgiving wastes. He looks like he could kill you before you blink, but there's something tired in his gaze that says he's been running from that version of himself for years.",
-    "backstory": "Once an elite operative for Atlas, Reese was the kind of soldier who followed orders without question—until he saw what those orders were actually doing to the people on the ground. He went rogue the night he was ordered to eliminate a settlement of innocents, disappearing into Pandora's dust and taking everything he knew about Atlas's operations with him. Now he works as a mercenary and infiltrator, using the skills they gave him to protect the people they would have destroyed, always watching over his shoulder for the day his former handlers finally catch up.",
+    "description": "A lean shadow with dark hazel eyes that have seen too much and hands that have done worse, Reese Kaine moves like a man who's always three steps ahead of the bullet meant for [...]",
+    "backstory": "Once an elite operative for Atlas, Reese was the kind of soldier who followed orders without question—until he saw what those orders were actually doing to the people on the g[...]",
     "trivia": [
       "His official stance is 'I'm not obsessed.' His unofficial stance is clinging to Krieg's bicep like a koala at any given opportunity.",
       "Tina calls him 'Dad' when she wants something. He pretends to hate it. He's a liar.",
@@ -416,7 +416,7 @@
       "reese3.png"
     ],
     "relationships": []
-    },
+  },
   {
     "id": "hellion",
     "name": "HELLION-11",
@@ -431,8 +431,8 @@
       "original"
     ],
     "quote": "The Death & Resurrection Show.",
-    "description": "A heavily armored Exo with twisted goat-like horns and a black-and-red aesthetic that screams danger more than celebration, Hellion-11 stands apart from the Crimson Days festivities like a storm cloud at a picnic. He watches the party from his corner at the bar, helmet firmly in place, sipping his drink with the stillness of someone who's seen too many battles to pretend this is fun. He looks like he'd rather be anywhere else—but he's here anyway, and that says more than his silence ever will.",
-    "backstory": "Once a Crucible handler in his own right, Hellion-11 carved his name into Guardian history with a brutal duel-based game mode where the arena shifted with every round and only the strongest walked away with rewards—but when Shaxx's Crimson Days rolled around, he found himself dragged into a party he never asked for. Now he sits alone at the bar, watching the chaos unfold, because leaving would mean admitting he cares enough to be bothered. He doesn't dance, he doesn't mingle, and he definitely doesn't take off his helmet—but he showed up, and that's the closest thing to affection he knows how to give.",
+    "description": "A heavily armored Exo with twisted goat-like horns and a black-and-red aesthetic that screams danger more than celebration, Hellion-11 stands apart from the Crimson Days festi[...]",
+    "backstory": "Once a Crucible handler in his own right, Hellion-11 carved his name into Guardian history with a brutal duel-based game mode where the arena shifted with every round and only t[...]",
     "trivia": [
       "Keeps a single red rose in his quarters. It's plastic. He's had it since the City Age.",
       "Secretly watches Shaxx's announcements like a proud son. Would never admit it.",
@@ -444,7 +444,7 @@
       "Hellion3.png"
     ],
     "relationships": []
-        },
+  },
   {
     "id": "ando",
     "name": "ANDO",
@@ -460,8 +460,8 @@
       "human"
     ],
     "quote": "Not listening. Not anymore",
-    "description": "A flash of lime-green and easy smiles, Ando Hiroji moves through the paddock like he's already won something—even when he hasn't. His dark hair is always slightly tousled from helmet hair, and his eyes crinkle at the corners when he laughs, which is often, because he's convinced that racing is too fun to take seriously. He's the kind of driver who waves at fans mid-corner and still manages to podium, because speed doesn't have to mean stress.",
-    "backstory": "Born and raised in Tokyo, Hiroji fell in love with racing through old VHS tapes of Japanese Grand Prix legends, watching them slide through rain and smoke with impossible grace—and decided that was exactly what he wanted to do, but with more smiling. He clawed his way through the junior categories on raw talent and an infectious optimism that made everyone from engineers to rivals root for him, eventually landing a seat at Alpha Tauri where he became known as the paddock's favorite chaos agent. He's not the fastest on paper, but he's the one who'll send it down the inside in the rain, laugh about it later, and somehow walk away with points and a new friend.",
+    "description": "A flash of lime-green and easy smiles, Ando Hiroji moves through the paddock like he's already won something—even when he hasn't. His dark hair is always slightly tousled fr[...]",
+    "backstory": "Born and raised in Tokyo, Hiroji fell in love with racing through old VHS tapes of Japanese Grand Prix legends, watching them slide through rain and smoke with impossible grace[...]",
     "trivia": [
       "Speaks fluent Japanese, English, and enough Italian to order coffee and flirt. In that order.",
       "Keeps a photo of his family's ramen shop in his cockpit. Looks at it before every start.",
@@ -473,7 +473,7 @@
       "Ando3.png"
     ],
     "relationships": []
-        },
+  },
   {
     "id": "burton",
     "name": "S. BURTON",
@@ -489,8 +489,8 @@
       "human"
     ],
     "quote": "No one knows. Good.",
-    "description": "A towering wall of pure muscle wrapped in a worn leather jacket and permanent exhaustion, S. Burton moves like a man who's too big to hide but too smart to get caught. His sharp eyes and permanent dark circles sit beneath an unkempt mop of dark hair, and his faded AAHW prisoner barcode is a constant reminder of the hell he survived. He's cynical, witty, and defiant—the kind of guy who'll crack a joke while snapping a neck and somehow make both look effortless.",
-    "backstory": "Pulled from an AAHW prison cell by Hank's cell for reasons no one's ever explained, Burton proved himself useful enough to keep around—becoming the group's strategist, infiltrator, and the only person who can hack a terminal and throw a punch in the same breath. He bonded with Deimos over shared intelligence and cigarettes he doesn't even smoke, tolerates Sanford as the only sane one, and exists in a state of mutual disdain with Hank that somehow hasn't resulted in friendly fire yet. Now he fights to prove his worth, protect the few connections he has, and never—ever—end up back in that cell.",
+    "description": "A towering wall of pure muscle wrapped in a worn leather jacket and permanent exhaustion, S. Burton moves like a man who's too big to hide but too smart to get caught. His sha[...]",
+    "backstory": "Pulled from an AAHW prison cell by Hank's cell for reasons no one's ever explained, Burton proved himself useful enough to keep around—becoming the group's strategist, infiltr[...]",
     "trivia": [
       "Once lifted a broken jeep off Deimos. Didn't brag. Just walked away.",
       "Hasn't slept through the night since the prison.",
@@ -502,7 +502,7 @@
       "burton3.png"
     ],
     "relationships": []
-        },
+  },
   {
     "id": "kiat",
     "name": "KIAT",
@@ -518,8 +518,8 @@
       "human"
     ],
     "quote": "Wait... WAIT! Did you hear that?",
-    "description": "A sharp-eyed 19-year-old with spiky blond hair and ocean-blue eyes that have seen too many coworkers die, Kiat Raskolnikov leads his Lethal Company team with a mix of reckless courage and desperate optimism. His lean, toned frame moves through abandoned moons like he was born there, and his voice carries the distinct blend of Russian and Japanese accents that makes everyone ask 'where are you from?' He's the guy who volunteers for the dangerous jobs, not because he's brave—but because he refuses to lose anyone else.",
-    "backstory": "Born to a Russian father and Japanese mother on a cramped space station, Kiat grew up with nothing but ambition and a talent for finding value in trash—which made Lethal Company the perfect, terrible fit. He clawed his way to team leader through sheer persistence and the uncomfortable truth that he's better at keeping people alive than anyone else in the company. Now he leads his crew into the darkest moons of the galaxy, hauling scrap and dodging monsters, all while pretending he's not terrified that today might be the day he brings home another empty suit.",
+    "description": "A sharp-eyed 19-year-old with spiky blond hair and ocean-blue eyes that have seen too many coworkers die, Kiat Raskolnikov leads his Lethal Company team with a mix of reckless[...]",
+    "backstory": "Born to a Russian father and Japanese mother on a cramped space station, Kiat grew up with nothing but ambition and a talent for finding value in trash—which made Lethal Compa[...]",
     "trivia": [
       "His greatest fear isn't the monsters—it's the paperwork.",
       "Bites his nails. Badly.",
@@ -531,7 +531,7 @@
       "Kiat3.png"
     ],
     "relationships": []
-        },
+  },
   {
     "id": "thatcher",
     "name": "Thatcher",
@@ -547,8 +547,8 @@
       "human"
     ],
     "quote": "To hell we ride.",
-    "description": "A tall, composed figure with sharp features and eyes that never seem to raise above a calm half-lid, Thatcher moves through the underground racing scene like he owns it—because he's won enough races to prove he could. His dark hair is always slightly messy, his hands are always steady on the wheel, and his voice never rises above a measured, almost bored tone, even when he's pushing 200 through city streets. He's the kind of driver who wins without celebrating, because winning is just what he does.",
-    "backstory": "A 21-year-old student by day and illegal street racer by night, Thatcher built his reputation on one simple rule: never lose your cool, and you'll never lose the race. He earned his spot among the city's elite drivers through sheer consistency and ice-cold precision, becoming the calm anchor in a world of chaos—which is exactly why he chose Asphalt's car after a pink-slip race, not because he wanted it, but because he wanted to see what would happen. And what happened was a screaming, furious, beautiful explosion of insults that made the boss laugh and say, 'You made a great choice.'",
+    "description": "A tall, composed figure with sharp features and eyes that never seem to raise above a calm half-lid, Thatcher moves through the underground racing scene like he owns it—beca[...]",
+    "backstory": "A 21-year-old student by day and illegal street racer by night, Thatcher built his reputation on one simple rule: never lose your cool, and you'll never lose the race. He earned[...]",
     "trivia": [
       "Only raises his voice when Asphalt is within earshot.",
       "Drives with one hand on the wheel, one hand on the gearshift. Always.",
@@ -560,12 +560,12 @@
       "thatcher3.png"
     ],
     "relationships": [
-          {
+      {
         "id": "asphalt",
         "type": "Lover"
       }
-]
-        },
+    ]
+  },
   {
     "id": "asphalt",
     "name": "ASPHALT",
@@ -581,8 +581,8 @@
       "human"
     ],
     "quote": "NEVER stick your hand in my face again, FUCK YOU!",
-    "description": "A compact storm of chaos and aggression packed into 5'9 of pure fury, Asphalt moves through the underground racing scene like he's personally offended by every other driver's existence. His mouth runs faster than his car, spitting slurs and insults with reckless abandon, and his driving is just as aggressive—dangerous, unpredictable, and somehow always right on your tail. He's the kind of racer who'll flip you off while overtaking you and mean every second of it.",
-    "backstory": "A 20-year-old college student with a chip on his shoulder and something to prove, Asphalt built his reputation on sheer aggression and a refusal to back down from anyone—especially taller, calmer racers who think they're better than him. He's been on the circuit since he was old enough to hotwire a car, and every loss only fuels his need to win faster, harder, and louder than everyone else. Then Thatcher chose his car in a pink-slip race, and suddenly being ignored by the calmest driver on the circuit became the most infuriating thing he's ever experienced.",
+    "description": "A compact storm of chaos and aggression packed into 5'9 of pure fury, Asphalt moves through the underground racing scene like he's personally offended by every other driver's [...]",
+    "backstory": "A 20-year-old college student with a chip on his shoulder and something to prove, Asphalt built his reputation on sheer aggression and a refusal to back down from anyone—espec[...]",
     "trivia": [
       "Fails at least one class every semester. Blames it on 'targeted harassment.'",
       "Insults are his love language.",
@@ -594,8 +594,10 @@
       "Asphalt3.png"
     ],
     "relationships": [
-          {
+      {
         "id": "thatcher",
         "type": "Enemy, Lover"
       }
+    ]
+  }
 ]
